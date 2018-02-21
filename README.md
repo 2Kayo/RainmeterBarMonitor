@@ -6,7 +6,10 @@ This skin set is in its early stages, and is subject to changes and additions as
 
 ## Installation 
 
-To use, first download the files into a folder and place it in your Rainmeter skins directory, 
+This skin requires [CoreTemp](http://www.alcpu.com/CoreTemp/) for the CPU monitor. I suggest setting it 
+to start with Windows if you have Rainmeter set to do so.
+
+Then download the files into a folder and place it in your Rainmeter skins directory, 
 usually located at `C:\Users\<YOUR USERNAME>\Documents\Rainmeter\Skins`. Then, from the Rainmeter
 skins contextual menu, navigate to BarMonitor and click on the skins you'd like to use to activate them.
 
