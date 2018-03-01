@@ -4,17 +4,15 @@ A simple system monitoring Rainmeter skin set designed to be compact, informativ
 
 This skin set is in its early stages, and is subject to changes and additions as I make them.
 
+![Screenshot](https://i.imgur.com/mFYhR0t.png)
+
 ## Installation 
 
 The CPU skin requires [CoreTemp](http://www.alcpu.com/CoreTemp/).
 
 The GPU skin requires [MSI Afterburner](https://www.msi.com/page/afterburner).
 
-Download the files into a folder and place it in your Rainmeter skins directory, 
-usually located at `C:\Users\<YOUR USERNAME>\Documents\Rainmeter\Skins`. Then, from the Rainmeter
-skins contextual menu, navigate to BarMonitor and click on the skins you'd like to use to activate them.
-
-In the future, I'll include a `.rmskin` version of this skin to simplify installation. 
+Simply double-click the .rmskin file to have Rainmeter automatically install the skin for you. 
 
 **Notes:** 
 - Currently the CPU/RAM portion of the skin is configured for a 6-core CPU. If your CPU has a
@@ -32,8 +30,8 @@ else can be changed to suit your tastes and the rest of the skin should adapt ac
 ## Planned Features
 
 - [x] GPU monitor skin with core frequency, percent usage, and VRAM usage.
-- [ ] Art for the GPU skin.
+- [x] Art for the GPU skin.
 - [ ] Storage monitor skin supporting multiple drives, and showing free space and current load for each.
 - [ ] Network usage monitor
 - [ ] Configuration script to simplify customization for different hardware.
-- [ ] Screenshots in this readme.
+- [x] Screenshots in this readme. (Done for now)
